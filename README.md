@@ -53,8 +53,8 @@ Hiểu hành vi mua sắm của khách hàng, xác định các cặp sản ph�
 ## 🔍 Áp dụng Apriori
 **Tham số sử dụng:**
 - `min_support = 0.01`
-- `min_threshold = 1.2` (Lift)
-- `max_len = 3`
+- `min_Lift = 1.2`
+- `max_confident = 0.3`
 
 **Kết quả:**
 - Tổng số luật: 218
